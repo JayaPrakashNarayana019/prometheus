@@ -1,0 +1,5 @@
+#Installing Prometheus 
+
+
+#Prometheus Service on nodes 
+wget https://github.com/juliusv/prometheus_demo_service/releases/download/0.0.4/prometheus_demo_service-0.0.4.linux.amd64.tar.gz
